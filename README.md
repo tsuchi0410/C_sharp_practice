@@ -1,6 +1,6 @@
 # C_sharp_practice
-## 環境
-C#, xaml, .NET8.0, Prism
+## 環境など
+C#, WPF, xaml, .NET8.0, Prism
 
 ## 実装
 - メニューバー
