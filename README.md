@@ -1,7 +1,7 @@
 # C_sharp_practice
-## 環境など
+## 環境
 C#, WPF, xaml, .NET8.0, Prism
 
 ## 実装
 - メニューバー
-- 画面遷移
+- ダイアログ表示
