@@ -4,3 +4,5 @@
 2. MainWindowに呼び出しボタンを追加
 3. MainWindowViewModelに画面遷移を実装
 4. App.xaml.csの記述
+
+!["jpg"](RequestNavigate/RequestNavigate.jpg)
